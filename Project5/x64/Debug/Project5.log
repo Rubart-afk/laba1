@@ -1,0 +1,4 @@
+﻿  zaDanie 4.c
+C:\Users\student\source\repos\LAB0.-\zaDanie 4.c(14,2): warning C4098: name: функция типа "void", возвращающая значение
+C:\Users\student\source\repos\LAB0.-\zaDanie 4.c(21,2): warning C4098: date: функция типа "void", возвращающая значение
+  Project5.vcxproj -> C:\Users\student\source\repos\LAB00\x64\Debug\Project5.exe
